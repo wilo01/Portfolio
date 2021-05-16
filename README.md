@@ -23,3 +23,22 @@ Room
 ![Alt text](Room/Screenshot_8.png)
 ![Alt text](Room/Screenshot_9.png)
 ![Alt text](Room/Screenshot_10.png)
+
+Slider
+![Alt text](Slider/1.jpg)
+![Alt text](Slider/2.jpg)
+![Alt text](Slider/3.jpg)
+![Alt text](Slider/4.jpg)
+![Alt text](Slider/5.jpg)
+![Alt text](Slider/6.jpg)
+![Alt text](Slider/7.jpeg)
+
+Hunter
+![Alt text](Hunter/1.jpg)
+![Alt text](Hunter/2.jpg)
+![Alt text](Hunter/3.jpg)
+![Alt text](Hunter/4.jpg)
+![Alt text](Hunter/5.jpg)
+![Alt text](Hunter/6.jpg)
+![Alt text](Hunter/7.jpg)
+![Alt text](Hunter/8.jpg)
