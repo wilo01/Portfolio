@@ -1,6 +1,7 @@
 # Portfolio
 8Sinn
 ![Alt text](8Sinn/Screenshot_1.jpg)
+![Alt text](8Sinn/Screenshot_2.jpg)
 
 NDT
 ![Alt text](NDT/Screenshot_1.jpg)
